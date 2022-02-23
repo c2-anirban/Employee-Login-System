@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  margin-top: 7%;
+  border-radius: 5px !important;
+}
+.card-body {
+  padding: 5rem 4rem !important;
+}
+.col-md-12 {
+  margin-top: -4%;
+}
+.left-bg {
+  padding: 3rem 2rem;
+  justify-content: center;
+  background: linear-gradient(rgba(248, 2, 2, 0.945), rgb(175, 0, 0));
+}
+.right-bg {
+  padding: 2rem 2rem;
+  background-color: white;
+}
+.custom-icons {
+  margin: 2%;
+}
+.round-btn {
+  width: 100px !important;
+  border: 2px solid white;
+  background: transparent;
+  border-radius: 20px !important;
+  color: white;
+  background: linear-gradient(
+    rgba(248, 2, 2, 0.945),
+    rgb(175, 0, 0)
+  ) !important;
+}
+.msg-custom {
+  margin: 5% 20% 5% 20%;
+}
+.mediaBtn {
+  font-size: 1.9rem;
+}
+.form-group {
+  width: 400px !important;
+  transition: fade;
+  background-color: silver;
+  text-align: center;
+  border-radius: 2px !important;
+}
+.input-group {
+  display: flex;
+  justify-content: center;
+}
+.form-control {
+  background-color: silver !important;
+}
+.col-md-2 {
+  position: relative;
+  justify-content: center;
+}
+.col-md-6.coloumn.left-bg.new.text-white {
+  padding: 7em 2em 2em 2em;
+}

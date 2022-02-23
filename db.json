@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "body": "{\"name\":\"ANIRBAN PAN\",\"phone\":\"8001941942\",\"address\":\"midnapore\",\"zip\":\"721102\",\"email\":\"pan.anirban97@gmail.com\",\"password\":\"fffffff@DDDFF55886566\"}",
+      "id": 1
+    },
+    {
+      "body": "{\"name\":\"ANdffgggg\",\"phone\":\"8001941942\",\"address\":\"midnapore\",\"zip\":\"721102\",\"email\":\"anirban97@gmail.com\",\"password\":\"dddddd@hgfhghg888SS\"}",
+      "id": 2
+    },
+    {
+      "body": "{\"name\":\"Aniket\",\"phone\":\"7908902611\",\"address\":\"midnapore\",\"zip\":\"721102\",\"email\":\"anirban97.wis@gmail.com\",\"password\":\"785@Chhhjsjs\"}",
+      "id": 3
+    }
+  ],
+  "worklog": [
+    {
+      "body": "{\"projectName\":\"todo apps\",\"starttime\":\"2022-02-23T12:23\",\"endtime\":\"2022-02-23T15:23\",\"workdone\":\"done\"}",
+      "empID": "2",
+      "id": 1
+    },
+    {
+      "body": "{\"projectName\":\"apps react\",\"starttime\":\"2022-02-24T12:23\",\"endtime\":\"2022-02-25T12:23\",\"workdone\":\"DONE\"}",
+      "empID": "2",
+      "id": 2
+    },
+    {
+      "body": "{\"projectName\":\"new apps \",\"starttime\":\"2022-02-23T14:41\",\"endtime\":\"2022-02-24T14:45\",\"workdone\":\"DONE\"}",
+      "empID": "2",
+      "id": 3
+    },
+    {
+      "body": "{\"projectName\":\"ECommerce app\",\"starttime\":\"2022-02-23T15:29\",\"endtime\":\"2022-02-24T15:29\",\"workdone\":\"done\"}",
+      "empID": "3",
+      "id": 4
+    }
+  ]
+}
